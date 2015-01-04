@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Javascript | 存放雕像的房间]]></title>
   <link href="http://monokeroz.github.io/blog/categories/javascript/atom.xml" rel="self"/>
   <link href="http://monokeroz.github.io/"/>
-  <updated>2015-01-04T19:27:51+08:00</updated>
+  <updated>2015-01-04T19:31:02+08:00</updated>
   <id>http://monokeroz.github.io/</id>
   <author>
     <name><![CDATA[Monokeroz]]></name>
@@ -27,6 +27,8 @@
 <li>需要手写HTML或Markdown，甚至CSS和Javascript，所以需要一点前端基础</li>
 </ul>
 
+
+<p>作为一个Javascript实现的框架，Reveal.js表现出惊人的灵活性，同时也很方便。</p>
 
 <h1>Reveal.js可以做什么</h1>
 
