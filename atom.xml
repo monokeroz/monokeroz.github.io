@@ -4,7 +4,7 @@
   <title><![CDATA[存放雕像的房间]]></title>
   <link href="http://monokeroz.github.io/atom.xml" rel="self"/>
   <link href="http://monokeroz.github.io/"/>
-  <updated>2015-06-27T00:45:10+08:00</updated>
+  <updated>2015-06-27T10:56:48+08:00</updated>
   <id>http://monokeroz.github.io/</id>
   <author>
     <name><![CDATA[Monokeroz]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[mail sending]]></title>
+    <link href="http://monokeroz.github.io/blog/2015/06/27/mail-sending/"/>
+    <updated>2015-06-27T10:55:56+08:00</updated>
+    <id>http://monokeroz.github.io/blog/2015/06/27/mail-sending</id>
+    <content type="html"><![CDATA[<h1>send email to list members</h1>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
